@@ -1,0 +1,8 @@
+﻿  лаб9.cpp
+c:\users\sara\desktop\visual studio\ооп\лаб9\лаб9\лаб9.cpp(54): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\sara\desktop\visual studio\ооп\лаб9\лаб9\лаб9.cpp(58): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\sara\desktop\visual studio\ооп\лаб9\лаб9\лаб9.cpp(97): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\sara\desktop\visual studio\ооп\лаб9\лаб9\лаб9.cpp(103): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\sara\desktop\visual studio\ооп\лаб9\лаб9\лаб9.cpp(133): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\sara\desktop\visual studio\ооп\лаб9\лаб9\лаб9.cpp(133): warning C4305: 'argument': truncation from 'double' to 'float'
+  лаб9.vcxproj -> C:\Users\sara\Desktop\visual studio\ооп\лаб9\Debug\лаб9.exe

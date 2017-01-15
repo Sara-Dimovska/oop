@@ -1,0 +1,4 @@
+﻿  Лаб3-2.cpp
+c:\users\sara\desktop\visual studio\ооп\лаб3-2\лаб3-2\лаб3-2.cpp(17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\sara\desktop\visual studio\ооп\лаб3-2\лаб3-2\лаб3-2.cpp(22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Лаб3-2.vcxproj -> C:\Users\sara\Desktop\visual studio\ооп\Лаб3-2\Debug\Лаб3-2.exe

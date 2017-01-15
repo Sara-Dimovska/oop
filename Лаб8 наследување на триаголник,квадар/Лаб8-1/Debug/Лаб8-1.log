@@ -1,0 +1,4 @@
+﻿  Лаб8-1.cpp
+c:\users\sara\desktop\visual studio\ооп\лаб8 наследување на триаголник,квадар\лаб8-1\лаб8-1.cpp(32): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\sara\desktop\visual studio\ооп\лаб8 наследување на триаголник,квадар\лаб8-1\лаб8-1.cpp(68): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Лаб8-1.vcxproj -> C:\Users\sara\Desktop\visual studio\ооп\Лаб8 наследување на триаголник,квадар\Debug\Лаб8-1.exe

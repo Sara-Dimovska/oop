@@ -1,0 +1,6 @@
+﻿  Лаб3-3.cpp
+c:\users\sara\desktop\visual studio\ооп\лаб3-3\лаб3-3\лаб3-3.cpp(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\sara\desktop\visual studio\ооп\лаб3-3\лаб3-3\лаб3-3.cpp(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\sara\desktop\visual studio\ооп\лаб3-3\лаб3-3\лаб3-3.cpp(56): warning C4102: 'PLATA': unreferenced label
+c:\users\sara\desktop\visual studio\ооп\лаб3-3\лаб3-3\лаб3-3.cpp(121): warning C4804: '>': unsafe use of type 'bool' in operation
+  Лаб3-3.vcxproj -> C:\Users\sara\Desktop\visual studio\ооп\Лаб3-3\Debug\Лаб3-3.exe

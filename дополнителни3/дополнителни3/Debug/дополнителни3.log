@@ -1,0 +1,4 @@
+﻿  дополнителни3.cpp
+c:\users\sara\desktop\visual studio\ооп\дополнителни3\дополнителни3\дополнителни3.cpp(49): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\sara\desktop\visual studio\ооп\дополнителни3\дополнителни3\дополнителни3.cpp(71): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  дополнителни3.vcxproj -> C:\Users\sara\Desktop\visual studio\ооп\дополнителни3\Debug\дополнителни3.exe

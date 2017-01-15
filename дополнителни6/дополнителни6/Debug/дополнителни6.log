@@ -1,0 +1,4 @@
+﻿  дополнителни6.cpp
+c:\users\sara\desktop\visual studio\ооп\дополнителни6\дополнителни6\дополнителни6.cpp(76): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\sara\desktop\visual studio\ооп\дополнителни6\дополнителни6\дополнителни6.cpp(79): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  дополнителни6.vcxproj -> C:\Users\sara\Desktop\visual studio\ооп\дополнителни6\Debug\дополнителни6.exe

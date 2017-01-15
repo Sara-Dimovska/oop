@@ -1,0 +1,5 @@
+﻿  Лаб3-3(навор од класата).cpp
+c:\users\sara\desktop\visual studio\ооп\лаб3-3(навор од класата)\лаб3-3(навор од класата)\лаб3-3(навор од класата).cpp(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\sara\desktop\visual studio\ооп\лаб3-3(навор од класата)\лаб3-3(навор од класата)\лаб3-3(навор од класата).cpp(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\sara\desktop\visual studio\ооп\лаб3-3(навор од класата)\лаб3-3(навор од класата)\лаб3-3(навор од класата).cpp(56): warning C4102: 'PLATA': unreferenced label
+  Лаб3-3(навор од класата).vcxproj -> C:\Users\sara\Desktop\visual studio\ооп\Лаб3-3(навор од класата)\Debug\Лаб3-3(навор од класата).exe
